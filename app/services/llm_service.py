@@ -389,7 +389,7 @@ Example:
                 "stream": False,
                 "format": "json"
             },
-            timeout=60
+            timeout=180
         )
 
         response.raise_for_status()
