@@ -33,3 +33,11 @@ The application supports questions such as:
 
 ```text
 How many tickets are currently open?
+
+Which agent resolved the most tickets this month?
+
+What is the average customer rating for Technical tickets?
+
+Show me all Critical tickets not resolved within 12 hours.
+
+Are there any anomalies in resolution times this week?
