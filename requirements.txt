@@ -1,0 +1,9 @@
+pandas
+numpy
+fastapi
+uvicorn
+pydantic
+streamlit
+requests
+scikit-learn
+python-dateutil
